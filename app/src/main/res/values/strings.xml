@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="hintPrincipal"> مقدار وام را وارد کنید</string>
+    <string name="hintDuration"> تعداد کل اقساط را وارد کنید </string>
+    <string name="hintAnnualInterestRate"> نرخ سود سالانه را وارد کنید </string>
+    <string name="txtButton">محاسبه</string>
+    <string name="textPayment">قسط هر ماه:</string>
+    <string name="textInterest">مبلغ کل بهره:</string>
+    <string name="textRepayment">مبلغ بازپرداخت:</string>
+</resources>
